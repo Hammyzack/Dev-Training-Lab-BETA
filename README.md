@@ -25,7 +25,7 @@
 - [ ] clear instructions (w/shortcuts), in m/d, on readme to <del>spin up</del> tell about the project, how to build on: 0 | 5 | 10 
 - [ ] code quality: logical, readable, functional: 0 | 5 | 10  
 
-## step-by-step
+## Step-by-Step
 
 - [ ] open vsCode
 - [ ] open terminal ctrl+~
@@ -34,7 +34,7 @@
 - [ ] make your project root diretory: mkdir my-super-awesome-project-name
 - [ ] navigate to the new dir/: cd my-super-awesome-project-name
 - [ ] open up the project root in vsCode: use the gui...wish I knew the cmd,
-             it's something like: open -a 'visual studio code' my-super-awesome-project-name
+   - it's something like: open -a 'visual studio code' my-super-awesome-project-name
 - [ ] initialize a Node.js project: $: npm init -y
 - [ ] install express.js: $: install i express --save
 - [ ] create a new file $: touch index.js
