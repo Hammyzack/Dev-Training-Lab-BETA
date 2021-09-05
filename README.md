@@ -27,7 +27,7 @@
 
 ## Step-by-Step
 
-- [ ] open vsCode
+- [ ] open `vsCode `
 - [ ] open terminal ctrl+~
    - [ ] check if git bash is default (ctrl+shift+p to open cmd pallete: "select default..." choose "git bash"
 - [ ] navigate to your workspace, e.g.: cd Desktop
