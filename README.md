@@ -25,7 +25,8 @@
 - [ ] clear instructions (w/shortcuts), in m/d, on readme to <del>spin up</del> tell about the project, how to build on: 0 | 5 | 10 
 - [ ] code quality: logical, readable, functional: 0 | 5 | 10  
 
-step-by-step
+## step-by-step
+
  open vsCode
  open terminal ctrl+~
  check if git bash is default (ctrl+shift+p to open cmd pallete: "select default..." choose "git bash"
