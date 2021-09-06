@@ -54,7 +54,7 @@
 
 - [ ] create a `.gitignore` file: `$:` `echo 'node_modules' >> .gitignore` (`//I think that'll do it, could be wrong`)
 - [ ] initialize the **local git repo**: `$:` `git init`
-- [ ] head over to - [https://github.com]
+- [ ] head over to https://github.com
   - [ ] sign in (requires an active account)
   - [ ] create a new repo: name it something like: `hello-heroku` or `node-on-heroku` or `whatever`
   - [ ] do **not** check any defaults, just give it a name and create it.
