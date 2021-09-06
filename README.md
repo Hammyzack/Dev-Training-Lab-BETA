@@ -22,7 +22,7 @@
 - [ ] navigate to a URL: _______ (heroku): 0 | 5 | 10
 - [ ] link back to ghyt repo w/target: 0 | 5 | 10
 - [ ] file directory and naming, ghty link to herok: 0 | 5 | 10 
-- [ ] clear instructions (w/shortcuts), in m/d, on readme to <del>spin up</del> tell about the project, how to build on: 0 | 5 | 10 
+- [ ] clear instructions (w/shortcuts), in m/d, on readme to <del>spin up</del> tell about the project,; how to build on: 0 | 5 | 10 
 - [ ] code quality: logical, readable, functional: 0 | 5 | 10  
 
 ## Step-by-Step
@@ -33,8 +33,8 @@
 - [ ] navigate to your workspace, e.g.: `cd Desktop`
 - [ ] make your **project root diretory**: `mkdir my-super-awesome-project-name`
 - [ ] navigate to the new dir/: `cd my-super-awesome-project-name`
-- [ ] open up the **project root** in **vsCode**: use the gui...wish I knew the cmd,
-   - it's something like: `open -a 'visual studio code' my-super-awesome-project-name`
+- [ ] open up the **project root** in **vsCode**: use the gui...wish I knew the cmd,;
+   it's something like: `open -a 'visual studio code' my-super-awesome-project-name`
 - [ ] initialize a **Node.js** project: `$:` `npm init -y`
 - [ ] install **express.js**: `$:` `install i express --save`
 - [ ] create a new file `$:` `touch index.js`
