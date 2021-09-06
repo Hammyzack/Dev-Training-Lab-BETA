@@ -45,7 +45,7 @@
 ```
 ...
 "scripts": {
--             "test": "echo \"Error: no test specified\" && exit 1"  #f03c15    
+-             "test": "echo \"Error: no test specified\" && exit 1"  `#f03c15`    
 +             "test": "echo \"Error: no test specified\" && exit 1",
 +            "start": "node index.js"
     },
