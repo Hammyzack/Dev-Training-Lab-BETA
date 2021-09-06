@@ -42,16 +42,16 @@
    - [ ] create an express server (see the **ghyt repo** for the `source code`)
 - [ ] edit `package.json`:
 
-`
-...
+
+`...
 "scripts": {
 -        "test": "echo \"Error: no test specified\" && exit 1"
 +        "test": "echo \"Error: no test specified\" && exit 1",
 +       "start": "node index.js"
     },
 
-...
-`
+`...
+
 
 - [ ] create a `.gitignore` file: `$:` `echo 'node_modules' >> .gitignore` (`//I think that'll do it, could be wrong`)
 - [ ] initialize the **local git repo**: `$:` `git init`
